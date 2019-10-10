@@ -1,4 +1,5 @@
 **#ci_laravel-mix**
+
 Node packages in CodeIgniter 3.1.11 using laravel-mix, webpack packages and blade template
 
 ------
@@ -31,3 +32,7 @@ you can custom js on directory assets/src/js/app.js
 
 
 
+
+THANK YOU
+
+*@nidaw*
