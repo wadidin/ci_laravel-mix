@@ -27,12 +27,3 @@ and then you get directory "node_modules"
 you can custom sass on directory assets/src/sass/app.sass
 you can custom js on directory assets/src/js/app.js
 ```
-
-
-
-<br><br><br>
-
-
-THANK YOU
-
-*@nidaw*
