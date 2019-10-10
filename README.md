@@ -13,7 +13,7 @@ move directory to assets
 open terminal / command prompt
 
 type : 
-npm install
+npm install --save-dev laravel-mix
 
 and then you get directory "node_modules"
 
