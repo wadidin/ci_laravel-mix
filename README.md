@@ -30,10 +30,7 @@ you can custom js on directory assets/src/js/app.js
 
 
 
-
-
-
-
+<br><br><br>
 
 
 THANK YOU
